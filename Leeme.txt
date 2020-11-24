@@ -1,0 +1,7 @@
+Modificacion del Timbot por GreyGrace,
+
+Bot de notificacion de stream en Twitch.
+
+WIP- Youtube integration.
+WIP- Destruir a Edgardo.
+WIP- Que Erika use el traje de Maid.
