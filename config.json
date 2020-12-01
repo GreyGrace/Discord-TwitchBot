@@ -5,9 +5,9 @@
   "niwatoritv": "🐣 Pollitos"
   },
 
-  "discord_bot_token": "NTc1MDg5NDM2NjQwMDE4NDQy.XNC3xg.Q6tkET0QuMqKxRQTO4LX3DSri2w",
-  "twitch_client_id": "441xg89jnaxl3tntjjvdmxngz40xdn",
-  "twitch_oauth_token": "uzi0isl83lcme2qqk3bns88m134oiu",
+  "discord_bot_token": "-",
+  "twitch_client_id": "-",
+  "twitch_oauth_token": "-",
   "twitch_check_interval_ms": 60000,
   "twitch_use_boxart": true
 }
