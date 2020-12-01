@@ -6,9 +6,6 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 global.discordJsClient = client;
 
-//441xg89jnaxl3tntjjvdmxngz40xdn
-//7tds464wuyv806kc4fs6mc21104ob5
-
 const TwitchMonitor = require("./twitch-monitor");
 const FooduseMonitor = require("./fooduse-monitor");
 const DiscordChannelSync = require("./discord-channel-sync");
